@@ -16,8 +16,8 @@ function reversePyramid(n) {
 
 console.log(reversePyramid(5));
 
-// aaaaaaaaa 0
-//  aaaaaaa  1
-//   aaaaa   2
-//    aaa    3
-//     a     4
+// ********* 0
+//  *******  1
+//   *****   2
+//    ***    3
+//     *     4

@@ -21,3 +21,9 @@ function hollowTriangle(n) {
 }
 
 console.log(hollowTriangle(5));
+
+// *
+// **
+// * *
+// *  *
+// *****

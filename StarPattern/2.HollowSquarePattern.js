@@ -20,3 +20,9 @@ function hollowStar(n) {
 }
 
 console.log(hollowStar(5));
+
+// *****
+// *   *
+// *   *
+// *   *
+// *****

@@ -15,3 +15,9 @@ function rightTriangle(n) {
 }
 
 console.log(rightTriangle(5));
+
+//     *
+//    **
+//   ***
+//  ****
+// *****

@@ -15,3 +15,9 @@ function starPyramid(n) {
 }
 
 console.log(starPyramid(5));
+
+//     *
+//    ***
+//   *****
+//  *******
+// *********

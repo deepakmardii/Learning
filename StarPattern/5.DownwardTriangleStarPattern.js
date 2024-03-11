@@ -12,3 +12,9 @@ function downwardTriangle(n) {
 }
 
 console.log(downwardTriangle(5));
+
+// *****
+// ****
+// ***
+// **
+// *

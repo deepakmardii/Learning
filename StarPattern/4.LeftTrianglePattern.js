@@ -12,3 +12,9 @@ function leftTriangle(n) {
 }
 
 console.log(leftTriangle(5));
+
+// *
+// **
+// ***
+// ****
+// *****
